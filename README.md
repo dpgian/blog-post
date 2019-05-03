@@ -4,7 +4,10 @@ The App renders a list of blog posts fetched from an outside API.
 
 ## Demo
 
+[Live_Demo](https://dp-blog-post.netlify.com/)
+
 ![](https://i.ibb.co/17gJvZQ/Capture.jpg)
+
 
 ## Built with
 
